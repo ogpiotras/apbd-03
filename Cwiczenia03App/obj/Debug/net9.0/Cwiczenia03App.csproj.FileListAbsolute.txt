@@ -1,0 +1,14 @@
+C:\Users\nales\Desktop\STUDIA\APBD\Cwiczenia03App\Cwiczenia03App\Cwiczenia03App\obj\Debug\net9.0\Cwiczenia03App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nales\Desktop\STUDIA\APBD\Cwiczenia03App\Cwiczenia03App\Cwiczenia03App\obj\Debug\net9.0\Cwiczenia03App.AssemblyInfoInputs.cache
+C:\Users\nales\Desktop\STUDIA\APBD\Cwiczenia03App\Cwiczenia03App\Cwiczenia03App\obj\Debug\net9.0\Cwiczenia03App.AssemblyInfo.cs
+C:\Users\nales\Desktop\STUDIA\APBD\Cwiczenia03App\Cwiczenia03App\Cwiczenia03App\obj\Debug\net9.0\Cwiczenia03App.csproj.CoreCompileInputs.cache
+C:\Users\nales\Desktop\STUDIA\APBD\Cwiczenia03App\Cwiczenia03App\Cwiczenia03App\bin\Debug\net9.0\Cwiczenia03App.exe
+C:\Users\nales\Desktop\STUDIA\APBD\Cwiczenia03App\Cwiczenia03App\Cwiczenia03App\bin\Debug\net9.0\Cwiczenia03App.deps.json
+C:\Users\nales\Desktop\STUDIA\APBD\Cwiczenia03App\Cwiczenia03App\Cwiczenia03App\bin\Debug\net9.0\Cwiczenia03App.runtimeconfig.json
+C:\Users\nales\Desktop\STUDIA\APBD\Cwiczenia03App\Cwiczenia03App\Cwiczenia03App\bin\Debug\net9.0\Cwiczenia03App.dll
+C:\Users\nales\Desktop\STUDIA\APBD\Cwiczenia03App\Cwiczenia03App\Cwiczenia03App\bin\Debug\net9.0\Cwiczenia03App.pdb
+C:\Users\nales\Desktop\STUDIA\APBD\Cwiczenia03App\Cwiczenia03App\Cwiczenia03App\obj\Debug\net9.0\Cwiczenia03App.dll
+C:\Users\nales\Desktop\STUDIA\APBD\Cwiczenia03App\Cwiczenia03App\Cwiczenia03App\obj\Debug\net9.0\refint\Cwiczenia03App.dll
+C:\Users\nales\Desktop\STUDIA\APBD\Cwiczenia03App\Cwiczenia03App\Cwiczenia03App\obj\Debug\net9.0\Cwiczenia03App.pdb
+C:\Users\nales\Desktop\STUDIA\APBD\Cwiczenia03App\Cwiczenia03App\Cwiczenia03App\obj\Debug\net9.0\Cwiczenia03App.genruntimeconfig.cache
+C:\Users\nales\Desktop\STUDIA\APBD\Cwiczenia03App\Cwiczenia03App\Cwiczenia03App\obj\Debug\net9.0\ref\Cwiczenia03App.dll
